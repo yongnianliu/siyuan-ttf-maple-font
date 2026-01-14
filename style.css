@@ -1,0 +1,167 @@
+/* Maple Mono 字体定义 */
+
+/* Thin - 100 */
+@font-face {
+    font-family: 'Maple Mono';
+    font-weight: 100;
+    src: url('../plugins/siyuan-ttf-maple-font/font/MapleMono-Thin.ttf.woff2') format('woff2');
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Maple Mono';
+    font-weight: 100;
+    src: url('../plugins/siyuan-ttf-maple-font/font/MapleMono-ThinItalic.ttf.woff2') format('woff2');
+    font-style: italic;
+    font-display: swap;
+}
+
+/* ExtraLight - 200 */
+@font-face {
+    font-family: 'Maple Mono';
+    font-weight: 200;
+    src: url('../plugins/siyuan-ttf-maple-font/font/MapleMono-ExtraLight.ttf.woff2') format('woff2');
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Maple Mono';
+    font-weight: 200;
+    src: url('../plugins/siyuan-ttf-maple-font/font/MapleMono-ExtraLightItalic.ttf.woff2') format('woff2');
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Light - 300 */
+@font-face {
+    font-family: 'Maple Mono';
+    font-weight: 300;
+    src: url('../plugins/siyuan-ttf-maple-font/font/MapleMono-Light.ttf.woff2') format('woff2');
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Maple Mono';
+    font-weight: 300;
+    src: url('../plugins/siyuan-ttf-maple-font/font/MapleMono-LightItalic.ttf.woff2') format('woff2');
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Regular - 400 */
+@font-face {
+    font-family: 'Maple Mono';
+    font-weight: 400;
+    src: url('../plugins/siyuan-ttf-maple-font/font/MapleMono-Regular.ttf.woff2') format('woff2');
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Maple Mono';
+    font-weight: 400;
+    src: url('../plugins/siyuan-ttf-maple-font/font/MapleMono-Italic.ttf.woff2') format('woff2');
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Medium - 500 */
+@font-face {
+    font-family: 'Maple Mono';
+    font-weight: 500;
+    src: url('../plugins/siyuan-ttf-maple-font/font/MapleMono-Medium.ttf.woff2') format('woff2');
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Maple Mono';
+    font-weight: 500;
+    src: url('../plugins/siyuan-ttf-maple-font/font/MapleMono-MediumItalic.ttf.woff2') format('woff2');
+    font-style: italic;
+    font-display: swap;
+}
+
+/* SemiBold - 600 */
+@font-face {
+    font-family: 'Maple Mono';
+    font-weight: 600;
+    src: url('../plugins/siyuan-ttf-maple-font/font/MapleMono-SemiBold.ttf.woff2') format('woff2');
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Maple Mono';
+    font-weight: 600;
+    src: url('../plugins/siyuan-ttf-maple-font/font/MapleMono-SemiBoldItalic.ttf.woff2') format('woff2');
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Bold - 700 */
+@font-face {
+    font-family: 'Maple Mono';
+    font-weight: 700;
+    src: url('../plugins/siyuan-ttf-maple-font/font/MapleMono-Bold.ttf.woff2') format('woff2');
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Maple Mono';
+    font-weight: 700;
+    src: url('../plugins/siyuan-ttf-maple-font/font/MapleMono-BoldItalic.ttf.woff2') format('woff2');
+    font-style: italic;
+    font-display: swap;
+}
+
+/* ExtraBold - 800 */
+@font-face {
+    font-family: 'Maple Mono';
+    font-weight: 800;
+    src: url('../plugins/siyuan-ttf-maple-font/font/MapleMono-ExtraBold.ttf.woff2') format('woff2');
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Maple Mono';
+    font-weight: 800;
+    src: url('../plugins/siyuan-ttf-maple-font/font/MapleMono-ExtraBoldItalic.ttf.woff2') format('woff2');
+    font-style: italic;
+    font-display: swap;
+}
+
+/* 设置界面字体 */
+:root {
+    --b3-font-family: 'Maple Mono', 'Emojis Additional', 'Emojis Reset', BlinkMacSystemFont, Helvetica, 'Luxi Sans', 'DejaVu Sans', arial, sans-serif, emojis !important;
+    --b3-font-family-code: 'Maple Mono', Consolas, 'Liberation Mono', Menlo, Courier, monospace !important;
+}
+
+:root:lang(zh_CN) {
+    --b3-font-family: 'Maple Mono', 'Emojis Additional', 'Emojis Reset', BlinkMacSystemFont, Helvetica, 'PingFang SC', 'Luxi Sans', 'DejaVu Sans', 'Hiragino Sans GB', 'Source Han Sans SC', arial, 'Microsoft Yahei', sans-serif, emojis !important;
+    --b3-font-family-code: 'Maple Mono', Consolas, 'Liberation Mono', Menlo, Courier, monospace !important;
+}
+
+:root:lang(zh_CHT) {
+    --b3-font-family: 'Maple Mono', 'Emojis Additional', 'Emojis Reset', BlinkMacSystemFont, Helvetica, 'PingFang TC', 'Luxi Sans', 'DejaVu Sans', 'Hiragino Sans TC', 'Source Han Sans TC', 'Microsoft JhengHei', arial, sans-serif, emojis !important;
+    --b3-font-family-code: 'Maple Mono', Consolas, 'Liberation Mono', Menlo, Courier, monospace !important;
+}
+
+:root:lang(ja_JP) {
+    --b3-font-family: 'Maple Mono', 'Emojis Additional', 'Emojis Reset', BlinkMacSystemFont, Helvetica, 'Luxi Sans', 'DejaVu Sans', 'Yu Gothic UI', arial, sans-serif, emojis !important;
+    --b3-font-family-code: 'Maple Mono', Consolas, 'Liberation Mono', Menlo, Courier, monospace !important;
+}
+
+/* 代码块样式优化 */
+.b3-typography code,
+.b3-typography pre,
+.protyle-wysiwyg code,
+.protyle-wysiwyg pre,
+.hljs {
+    font-family: var(--b3-font-family-code) !important;
+}
