@@ -2,7 +2,7 @@
   "name": "siyuan-ttf-maple-font",
   "author": "yongnianliu",
   "url": "https://github.com/yongnianliu/siyuan-ttf-maple-font",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "backends": ["all"],
   "frontends": ["all"],
   "disabledInPublish": false,
