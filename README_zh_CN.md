@@ -6,7 +6,7 @@
 
 - **完整中文支持**：包含完整的中文字符集
 - **Nerd Font 图标**：内置 Nerd Font 图标，适合开发者使用
-- **完整字重支持**：包含从 Thin (100) 到 ExtraBold (800) 的全部 8 种字重
+- **常用字重支持**：包含 Regular、Medium、Bold 三种常用字重
 - **斜体支持**：所有字重均包含斜体变体
 - **代码优化**：专为代码块和编程场景优化
 - **连字支持**：支持美观的编程连字
@@ -16,14 +16,9 @@
 
 | 字重 | 数值 | 文件 |
 |------|------|------|
-| Thin（极细） | 100 | MapleMono-NF-CN-Thin |
-| ExtraLight（特细） | 200 | MapleMono-NF-CN-ExtraLight |
-| Light（细体） | 300 | MapleMono-NF-CN-Light |
 | Regular（常规） | 400 | MapleMono-NF-CN-Regular |
 | Medium（中等） | 500 | MapleMono-NF-CN-Medium |
-| SemiBold（半粗） | 600 | MapleMono-NF-CN-SemiBold |
 | Bold（粗体） | 700 | MapleMono-NF-CN-Bold |
-| ExtraBold（特粗） | 800 | MapleMono-NF-CN-ExtraBold |
 
 ## 注意事项
 

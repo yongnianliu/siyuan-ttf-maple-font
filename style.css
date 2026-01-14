@@ -1,61 +1,10 @@
 /* Maple Mono NF CN 中文字体定义 */
 
-/* Thin - 100 */
-@font-face {
-    font-family: 'Maple Mono';
-    font-weight: 100;
-    src: url('../plugins/siyuan-ttf-maple-font/font/MapleMono-NF-CN-Thin.woff2') format('woff2');
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Maple Mono';
-    font-weight: 100;
-    src: url('../plugins/siyuan-ttf-maple-font/font/MapleMono-NF-CN-ThinItalic.woff2') format('woff2');
-    font-style: italic;
-    font-display: swap;
-}
-
-/* ExtraLight - 200 */
-@font-face {
-    font-family: 'Maple Mono';
-    font-weight: 200;
-    src: url('../plugins/siyuan-ttf-maple-font/font/MapleMono-NF-CN-ExtraLight.woff2') format('woff2');
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Maple Mono';
-    font-weight: 200;
-    src: url('../plugins/siyuan-ttf-maple-font/font/MapleMono-NF-CN-ExtraLightItalic.woff2') format('woff2');
-    font-style: italic;
-    font-display: swap;
-}
-
-/* Light - 300 */
-@font-face {
-    font-family: 'Maple Mono';
-    font-weight: 300;
-    src: url('../plugins/siyuan-ttf-maple-font/font/MapleMono-NF-CN-Light.woff2') format('woff2');
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Maple Mono';
-    font-weight: 300;
-    src: url('../plugins/siyuan-ttf-maple-font/font/MapleMono-NF-CN-LightItalic.woff2') format('woff2');
-    font-style: italic;
-    font-display: swap;
-}
-
 /* Regular - 400 */
 @font-face {
     font-family: 'Maple Mono';
     font-weight: 400;
-    src: url('../plugins/siyuan-ttf-maple-font/font/MapleMono-NF-CN-Regular.woff2') format('woff2');
+    src: url('../plugins/siyuan-ttf-maple-font/fonts/MapleMono-NF-CN-Regular.woff2') format('woff2');
     font-style: normal;
     font-display: swap;
 }
@@ -63,7 +12,7 @@
 @font-face {
     font-family: 'Maple Mono';
     font-weight: 400;
-    src: url('../plugins/siyuan-ttf-maple-font/font/MapleMono-NF-CN-Italic.woff2') format('woff2');
+    src: url('../plugins/siyuan-ttf-maple-font/fonts/MapleMono-NF-CN-Italic.woff2') format('woff2');
     font-style: italic;
     font-display: swap;
 }
@@ -72,7 +21,7 @@
 @font-face {
     font-family: 'Maple Mono';
     font-weight: 500;
-    src: url('../plugins/siyuan-ttf-maple-font/font/MapleMono-NF-CN-Medium.woff2') format('woff2');
+    src: url('../plugins/siyuan-ttf-maple-font/fonts/MapleMono-NF-CN-Medium.woff2') format('woff2');
     font-style: normal;
     font-display: swap;
 }
@@ -80,24 +29,7 @@
 @font-face {
     font-family: 'Maple Mono';
     font-weight: 500;
-    src: url('../plugins/siyuan-ttf-maple-font/font/MapleMono-NF-CN-MediumItalic.woff2') format('woff2');
-    font-style: italic;
-    font-display: swap;
-}
-
-/* SemiBold - 600 */
-@font-face {
-    font-family: 'Maple Mono';
-    font-weight: 600;
-    src: url('../plugins/siyuan-ttf-maple-font/font/MapleMono-NF-CN-SemiBold.woff2') format('woff2');
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Maple Mono';
-    font-weight: 600;
-    src: url('../plugins/siyuan-ttf-maple-font/font/MapleMono-NF-CN-SemiBoldItalic.woff2') format('woff2');
+    src: url('../plugins/siyuan-ttf-maple-font/fonts/MapleMono-NF-CN-MediumItalic.woff2') format('woff2');
     font-style: italic;
     font-display: swap;
 }
@@ -106,7 +38,7 @@
 @font-face {
     font-family: 'Maple Mono';
     font-weight: 700;
-    src: url('../plugins/siyuan-ttf-maple-font/font/MapleMono-NF-CN-Bold.woff2') format('woff2');
+    src: url('../plugins/siyuan-ttf-maple-font/fonts/MapleMono-NF-CN-Bold.woff2') format('woff2');
     font-style: normal;
     font-display: swap;
 }
@@ -114,24 +46,7 @@
 @font-face {
     font-family: 'Maple Mono';
     font-weight: 700;
-    src: url('../plugins/siyuan-ttf-maple-font/font/MapleMono-NF-CN-BoldItalic.woff2') format('woff2');
-    font-style: italic;
-    font-display: swap;
-}
-
-/* ExtraBold - 800 */
-@font-face {
-    font-family: 'Maple Mono';
-    font-weight: 800;
-    src: url('../plugins/siyuan-ttf-maple-font/font/MapleMono-NF-CN-ExtraBold.woff2') format('woff2');
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Maple Mono';
-    font-weight: 800;
-    src: url('../plugins/siyuan-ttf-maple-font/font/MapleMono-NF-CN-ExtraBoldItalic.woff2') format('woff2');
+    src: url('../plugins/siyuan-ttf-maple-font/fonts/MapleMono-NF-CN-BoldItalic.woff2') format('woff2');
     font-style: italic;
     font-display: swap;
 }
