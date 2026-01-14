@@ -2,18 +2,18 @@
   "name": "siyuan-ttf-maple-font",
   "author": "yongnianliu",
   "url": "https://github.com/yongnianliu/siyuan-ttf-maple-font",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "backends": ["all"],
   "frontends": ["all"],
   "disabledInPublish": false,
   "minAppVersion": "3.2.0",
   "displayName": {
-    "default": "Maple Mono Font",
-    "zh_CN": "Maple Mono 等宽字体"
+    "default": "Maple Mono NF CN Font",
+    "zh_CN": "Maple Mono NF 中文等宽字体"
   },
   "description": {
-    "default": "Use Maple Mono as code and layout font",
-    "zh_CN": "使用 Maple Mono 作为代码和界面字体"
+    "default": "Use Maple Mono NF CN (with Nerd Font icons and Chinese support) as code and layout font",
+    "zh_CN": "使用 Maple Mono NF CN（含 Nerd Font 图标和中文支持）作为代码和界面字体"
   },
   "readme": {
     "default": "README.md",
