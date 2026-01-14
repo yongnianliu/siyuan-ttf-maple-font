@@ -33,7 +33,7 @@ $filesToInclude = @(
     "preview.png",
     "README.md",
     "README_zh_CN.md",
-    "font"
+    "fonts"
 )
 
 # 检查必要文件是否存在
